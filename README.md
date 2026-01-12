@@ -15,43 +15,31 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 - <b>Windows 10 (VM)</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Sample of scenarios done:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Alert Ownership: <br/>
+<img src="https://i.imgur.com/hh3h4Zt.png" height="80%" width="80%" alt="Taking ownership of alerts"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assessing Reputation of Domain:  <br/>
+<img src="https://i.imgur.com/ao7P2I1.png" height="80%" width="80%" alt="Assessing Reputation of Domain"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+URL Investigation using VirusTotal: <br/>
+<img src="https://i.imgur.com/tUtUIck.png" height="80%" width="80%" alt="URL Investigation using VirusTotal"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+URL Investigation using Any Run:  <br/>
+<img src="https://i.imgur.com/UFXjD3q.png" height="80%" width="80%" alt="URL Investigation using Any Run"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Results and Analysis:  <br/>
+<img src="https://i.imgur.com/jERD05g.png" height="80%" width="80%" alt="Results and Analysis"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Ratings and Timings:  <br/>
+<img src="https://i.imgur.com/WG9Prmv.png" height="80%" width="80%" alt="Ratings and Timings"/>
 <br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
