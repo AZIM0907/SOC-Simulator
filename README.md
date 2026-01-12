@@ -1,7 +1,7 @@
 <h1>SOC Simulator</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Completed a hands-on SOC Simulator on TryHackMe, performing real-world Security Operations Center tasks such as alert triage, log analysis, incident investigation, and threat detection. Gained practical experience in identifying malicious activity, analyzing security events, and responding to simulated cyber incidents in a blue-team environment.
 <br />
 
 
